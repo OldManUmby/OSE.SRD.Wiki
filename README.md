@@ -5,6 +5,8 @@
 
 ### THIS SRD IS UNDER CONSTRUCTION!
 
+When the "Under Construction" warning goes away, all is updated.
+
 # REorganized. REpublished. REmastered!
 
 ### What is OSE SRD REmastered?
