@@ -9,11 +9,11 @@
 
 ### What is OSE SRD REmastered?
 
-This is an adaptation of the Old-School Essentials (OSE) SRD REformatted in Markdown (.MD) for easy export to other publishing formats. Please report any issues or discrepancies within the material itself; see Discussions & Issues below.
+This is an "Americanized" adaptation of the Old-School Essentials (OSE) SRD REformatted in Markdown (.MD) for easy export to other publishing formats. Please report any issues or discrepancies within the material itself; see Discussions & Issues below.
+
+The material contained herein was REmastered line-by-line into Markdown format to be utilized in your own OSE projects. I have painstakingly converted the original [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) to markdown, plus all current errata. In addition, I have converted all Brittish-spellings to American-spellings. For example, armour to armor, colour to color, etc. Also, I have taken the liberty of grammar-checking all material and rewording some sentences for clarity. Bear in mind, I'm only human. For more information, please visit the [SRD Wiki](https://srd.wiki).
 
 **The Systems Reference Document (SRD)** contains guidelines for publishing contains guidelines for publishing content under the Open-Gaming License [OGL](https://oldschoolessentials.necroticgnome.com/srd/index.php/Open_Game_License) or [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) (“CC-BY-4.0”).
-
-The material contained herein was REmastered line-by-line into Markdown format to be utilized in your own OSE projects. I have painstakingly converted the original [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) to markdown, plus all current errata. For more information, please visit the [SRD Wiki](https://srd.wiki).
 
 <details>
  <summary>Why Markdown format?</summary>
