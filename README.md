@@ -69,7 +69,7 @@ Feel free to visit our [discussion](https://github.com/OldManUmby/OSE.SRD.Wiki/d
 <details>
  <summary>Get Downloads</summary>
 
-* Download the latest [Release](#). COMING SOON!
+* Download the latest [Release](https://github.com/OldManUmby/OSE.SRD.Wiki/releases).
 * Download OSE official [Basic Rules](https://necroticgnome.com/products/old-school-essentials-basic-rules).
 * Download OSE official [Errata](https://docs.google.com/document/d/1dzQnig4CNET8-1yLJgOfYdssc70oUp5rGfGUZuBZBQE/edit#heading=h.8u1si328qbpn).
 * Download OSE official [Characters Sheets]([http://dnd.wizards.com/articles/features/character_sheets](https://necroticgnome.com/collections/free-downloads)).
