@@ -78,6 +78,6 @@ Feel free to visit our [discussion](https://github.com/OldManUmby/OSE.SRD.Wiki/d
 
 ---
 
-**Disclaimer:** Old-School Essentials is a trademark of Necrotic Gnome. The trademark and Old-School Essentials logo are used with permission of Necrotic Gnome, under license. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at [www.wizards.com](http://www.wizards.com).
+**Disclaimer:** Old-School Essentials is a trademark of Necrotic Gnome. The trademark and Old-School Essentials logo are used with permission of Necrotic Gnome, under license. For more information about Old-School Essentials or other intellectual property, please visit their website at [www.necroticgnome.com](http://www.necroticgnome.com).
 
 Website, markdown conversion, and extended formats by [Old Man Umby](http://www.oldmanumby.com).
