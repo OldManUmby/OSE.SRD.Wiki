@@ -3,17 +3,13 @@
 
 ---
 
-### THIS SRD IS UNDER CONSTRUCTION!
-
-When the "Under Construction" warning goes away, all is updated.
-
 # REorganized. REpublished. REmastered!
 
 ### What is OSE SRD REmastered?
 
 This is an "Americanized" adaptation of the Old-School Essentials (OSE) SRD REformatted in Markdown (.MD) for easy export to other publishing formats. Please report any issues or discrepancies within the material itself; see Discussions & Issues below.
 
-The material contained herein was REmastered line-by-line into Markdown format to be utilized in your own OSE projects. I have painstakingly converted the original [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) to markdown, plus all current errata. In addition, I have converted all Brittish-spellings to American-spellings. For example, armour to armor, colour to color, etc. Also, I have taken the liberty of grammar-checking all material and rewording some sentences for clarity. Bear in mind, I'm only human and this is still a work in progress. For more information, please visit the [SRD Wiki](https://srd.wiki).
+The material contained herein was REmastered line-by-line into Markdown format to be utilized in your own OSE projects. I have painstakingly converted the original [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) to markdown, plus all current errata. In addition, I have converted all British spellings to American spellings. For example, armour to armor, colour to color, etc. Also, I have taken the liberty of grammar-checking all material and rewording some sentences for clarity. For more information, please visit the [SRD Wiki](https://srd.wiki).
 
 **The Systems Reference Document (SRD)** contains guidelines for publishing contains guidelines for publishing content under the Open-Gaming License [OGL](https://oldschoolessentials.necroticgnome.com/srd/index.php/Open_Game_License) or [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) (“CC-BY-4.0”).
 
@@ -32,7 +28,7 @@ I recommend using the following Markdown applications to edit the material:
 * [Typora](https://typora.io): $15 (Pay Once)
 * [Visual Studio Code](https://code.visualstudio.com/Download): FREE!
 
-To export Markdown to various publishing formats, I recommend using Typora (listed above) as it has many good export options which will satify the majority of users. Most any good Markdown editors will offer basic exports. However, if you want more options, [PanWriter](https://panwriter.com) is the best solution. However, for PanWiter to function properly, the following applications must also be installed to maximize your export options:
+To export Markdown to various publishing formats, I recommend using Typora (listed above), as it has many good export options that will satisfy the majority of users. Most good Markdown editors will offer basic exports. However, if you want more options, [PanWriter](https://panwriter.com) is the best solution. However, for PanWiter to function properly, the following applications must also be installed to maximize your export options:
 
 * [Download PanDoc](https://github.com/jgm/pandoc/releases/download/2.19.2/pandoc-2.19.2-macOS.pkg)
 
@@ -48,7 +44,7 @@ Note: On unsupported versions of macOS (more than three releases old), Homebrew 
 
 There is a zip file containing the binaries and man pages, for those who prefer not to use the installer. Simply unzip the file and move the binaries and man pages to whatever directory you like.
 
-By default, Pandoc creates PDFs using LaTeX. Because a full MacTeX installation uses four gigabytes of disk space, we recommend BasicTeX or TinyTeX and using the tlmgr tool to install additional packages as needed. If you receive errors warning of fonts not found:
+By default, Pandoc creates PDFs using LaTeX. Because a full MacTeX installation uses four gigabytes of disk space, we recommend BasicTeX or TinyTeX and using the tlmgr tool to install additional packages as needed. If you receive error warnings of fonts not found:
 
 `tlmgr install collection-fontsrecommended`
 
