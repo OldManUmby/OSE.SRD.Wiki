@@ -19,4 +19,4 @@ Giant, subterranean mushrooms that can creep around slowly.
 
 ------
 
-- **Shriek:** Triggered by light (up to 60’ away) or movement (up to 30’ away). Shriek lasts for 1d3 rounds. Each round of the shriek, there is a 50% chance of a wandering monster being attracted (will arrive in 2d6 rounds).
+- **Shriek:** Triggered by light (up to 60’ away) or movement (up to 30’ away). Shriek lasts for 1d3 rounds. For each round of the shriek, there is a 50% chance of a wandering monster being attracted (will arrive in 2d6 rounds).

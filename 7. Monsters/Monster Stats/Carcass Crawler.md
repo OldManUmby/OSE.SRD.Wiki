@@ -19,5 +19,5 @@
 
 ------
 
-- **Paralysis:** A hit by a tentacle causes paralysis for 2d4 turns (**save versus paralysis**). Paralysed victims will be devoured, if the crawler is left in peace.
+- **Paralysis:** A hit by a tentacle causes paralysis for 2d4 turns (**save versus paralysis**). Paralyzed victims will be devoured if the crawler is left in peace.
 - **Cling:** Can walk on walls and ceilings.

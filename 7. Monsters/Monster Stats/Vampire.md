@@ -19,17 +19,17 @@ Greatly feared undead monsters that live by drinking the blood of mortals. Dwell
 
 ------
 
-- **Undead:** Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. *charm, hold, sleep.
+- **Undead:** Make no noise until they attack. Immune to effects that affect living creatures (e.g., poison). Immune to mind-affecting or mind-reading spells (e.g., *charm*, *hold*, *sleep*).
 
 - **Mundane damage immunity:** Can only be harmed by magical attacks.
 
-- **Energy drain:** A successfully touched target permanently loses two experience levels (or Hit Dice). This incurs a loss of two Hit Dice of hit points, as well as all other benefits due to the drained levels (e.g. spells, saving throws, etc.). A character’s XP is reduced to the lowest amount for the new level. A person drained of all levels becomes a vampire in 3 days.
+- **Energy drain:** A successfully touched target permanently loses two experience levels (or Hit Dice). This incurs a loss of two Hit Dice of hit points, as well as all other benefits due to the drained levels (e.g., spells, saving throws, etc.). A character’s XP is reduced to the lowest amount for the new level. A person drained of all levels becomes a vampire in 3 days.
 
 - **Charming gaze:** **Save versus spells at -2** or be charmed: move towards the vampire (resisting those who try to prevent it); defend the vampire; obey the vampire’s commands (if understood); unable to cast spells or use magic items; unable to harm the vampire. Killing the vampire breaks the charm.
 
 - **Regeneration:** A damaged vampire gains 3hp at the start of each round, as long as it is alive.
 
-- **At 0hp:** Change into gaseous form; flee to coffin.
+- **At 0hp:** Change into gaseous form; flee to the coffin.
 
 - Change form:
 

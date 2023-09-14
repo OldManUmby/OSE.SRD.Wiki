@@ -1,6 +1,6 @@
 # Stegosaurus
 
-Stocky, herbivorous dinosaurs with a ridge of plates along their backs, and a tail studded with spikes (used to deter attackers). Dwell in sub-tropical Lost World environments.
+Stocky, herbivorous dinosaurs with a ridge of plates along their backs and a tail studded with spikes (used to deter attackers). Dwell in sub-tropical Lost World environments.
 
 ------
 

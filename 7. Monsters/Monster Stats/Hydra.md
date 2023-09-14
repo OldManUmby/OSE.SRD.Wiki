@@ -1,6 +1,6 @@
 # Hydra
 
-Large, dragon-like creatures with multiple, serpentine heads. Sea hydras (adapted to water, with fins) also exist.
+Large, dragon-like creatures with multiple serpentine heads. Sea hydras (adapted to water, with fins) also exist.
 
 ------
 
@@ -21,4 +21,4 @@ Large, dragon-like creatures with multiple, serpentine heads. Sea hydras (adapte
 
 - **Heads:** 1d8+4 heads; 1HD per head.
 - **Disabling heads:** For every 8hp damage taken, one head is disabled (cannot attack).
-- **Variants:** Special hydras sometimes found with venom, fiery breath, etc.
+- **Variants:** Special hydras are sometimes found with venom, fiery breath, etc.

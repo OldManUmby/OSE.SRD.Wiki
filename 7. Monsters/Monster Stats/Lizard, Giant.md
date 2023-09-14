@@ -1,7 +1,5 @@
 # Lizard, Giant
 
-Jump to:navigation, search
-
 ## Draco
 
 6’ long, carnivorous lizards with skin flaps between legs that enable gliding. Usually dwell above ground, but sometimes shelter in caves. Sometimes attack humans.
@@ -69,7 +67,7 @@ Jump to:navigation, search
 
 - **Surprise:** On a 1–5, due to camouflage.
 - **Sticky tongue:** Can attack targets up to 5’ away. If the attack succeeds, the victim is dragged to the mouth and bitten (2d4 damage).
-- **Tail:** Causes no damage, but knocks opponent down: cannot attack that round.
+- **Tail:** Causes no damage but knocks the opponent down: cannot attack that round.
 
 ## Tuatara
 

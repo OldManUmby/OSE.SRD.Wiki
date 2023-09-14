@@ -22,6 +22,6 @@ Deadly creatures of a magical nature that look like women with writhing snakes i
 - **Disguise:** Use hooded cloaks to lure victims close before revealing their true form.
 - **Petrification:** Anyone who looks at an undisguised medusa will be turned to stone (**save versus petrify**).
 - **Averting eyes:** -4 penalty to-hit; the medusa gains a +2 bonus to attack.
-- **Mirrors:** The reflection of a medusa is harmless. If a medusa sees her own reflection, she must save or be petrified.
+- **Mirrors:** The reflection of a medusa is harmless. If a medusa sees her reflection, she must save or be petrified.
 - **Poison:** The snakes’ bites are venomous: **save versus poison** or die in 1 turn.
 - **Magic resistance:** +2 bonus to saves versus spells.

@@ -19,6 +19,6 @@ Corpses of humans or demihumans, possessed by malevolent spirits.
 
 ------
 
-- **Undead:** Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. *charm*, *hold*, *sleep.
+- **Undead:** Make no noise, until they attack. Immune to effects that affect living creatures (e.g., poison). Immune to mind-affecting or mind-reading spells (e.g., *charm*, *hold*, *sleep*).
 - **Mundane damage immunity:** Only harmed by silver weapons or magic.
-- **Energy drain:** A successfully hit target permanently loses one experience level (or Hit Die). This incurs a loss of one Hit Die of hit points, as well as all other benefits due to the drained level (e.g. spells, saving throws, etc.). A character’s XP is reduced to halfway between the former and new levels. A person drained of all levels becomes a wight in 1d4 days, under the control of the wight that killed them.
+- **Energy drain:** A successfully hit target permanently loses one experience level (or Hit Die). This incurs a loss of one Hit Die of hit points, as well as all other benefits due to the drained level (e.g., spells, saving throws, etc.). A character’s XP is reduced to halfway between the former and new levels. A person drained of all levels becomes a wight in 1d4 days, under the control of the wight that killed them.

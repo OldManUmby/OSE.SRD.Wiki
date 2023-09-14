@@ -19,8 +19,8 @@
 
 ------
 
-- **Shy:** Will try to charm intruders, rather than entering combat.
+- **Shy:** Will try to charm intruders rather than entering combat.
 - **Weapons:** Daggers and small tridents (as spears).
 - **Charm:** 10 nixies together can cast a charm to enchant a victim to serve them for one year. **Save versus spells** or be charmed: move towards the nixies (resisting those who try to prevent it); defend the nixies; obey the nixies’ commands (if understood); unable to cast spells or use magic items; unable to harm the nixies. Killing the nixies breaks the charm.
-- **Summon giant bass:** Each nixie can summon one fish to aid in combat (see ***Giant Bass.
+- **Summon giant bass:** Each nixie can summon one fish to aid in combat (see ***Giant Bass***).
 - **Bestow water breathing:** Can cast upon charmed slaves. Lasts for one day, then must be refreshed.

@@ -31,7 +31,7 @@ Hunt in groups called “prides”. Live in hot regions, typically in savannah o
 
 ## Mountain Lion
 
-Have yellow-brown fur and favour mountains, deserts, and forests. Will occasionally venture into dungeons.
+Have yellow-brown fur and favor mountains, deserts, and forests. Will occasionally venture into dungeons.
 
 ------
 
@@ -100,7 +100,7 @@ Huge, aggressive cats with foot-long fangs. Normally only found in Lost World re
 
 ## Tiger
 
-Large, solitary hunters with striped camouflage markings. Favour woodlands and cooler regions.
+Large, solitary hunters with striped camouflage markings. Favor woodlands and cooler regions.
 
 ------
 

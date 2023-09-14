@@ -26,7 +26,7 @@
 
 ## Crab Spider
 
-5’ long hunting spiders that can change their colour to match their surroundings.
+5’ long hunting spiders that can change their color to match their surroundings.
 
 ------
 

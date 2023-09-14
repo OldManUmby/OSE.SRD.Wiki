@@ -1,6 +1,6 @@
 # Wyvern
 
-Winged, two-legged, dragon-like monsters with a long tail tipped with a venomous stinger. Dwell in any terrain, but favour cliffs and forests.
+Winged, two-legged, dragon-like monsters with a long tail tipped with a venomous stinger. Dwell in any terrain, but favor cliffs and forests.
 
 ------
 
@@ -19,4 +19,4 @@ Winged, two-legged, dragon-like monsters with a long tail tipped with a venomous
 
 ------
 
-- **Poison:** Causes death (**save vs poison**).
+- **Poison:** Causes death (**save vs. poison**).

@@ -19,4 +19,4 @@ Great (over 20’ tall), two-legged, predatory dinosaurs with huge jaws. Hunt hu
 
 ------
 
-- **Large prey:** Attack largest target first.
+- **Large prey:** Attack the largest target first.

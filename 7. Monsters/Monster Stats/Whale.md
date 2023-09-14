@@ -1,7 +1,5 @@
 # Whale
 
-Jump to:navigation, search
-
 ## Killer Whale
 
 25’ long, carnivorous whales. Dwell in cold waters and hunt sea creatures (including other whales).
@@ -27,7 +25,7 @@ Jump to:navigation, search
 
 ## Narwhal
 
-15’ long, intelligent, magical whales with grey to white skin and an 8’ long, spiralling horn on their nose. Live independent and secretive lives in arctic waters.
+15’ long, intelligent, magical whales with grey to white skin and an 8’ long, spiraling horn on their nose. Live independent and secretive lives in arctic waters.
 
 ------
 
@@ -46,11 +44,11 @@ Jump to:navigation, search
 
 ------
 
-- **Horn:** Is worth 1d6 × 1,000gp. Rumours say a narwhal’s horn vibrates when evil is near.
+- **Horn:** Is worth 1d6 × 1,000gp. Rumors say a narwhal’s horn vibrates when evil is near.
 
 ## Sperm Whale
 
-Gargantuan whales up to 60’ long. Dwell in open oceans and hunt deep sea monsters (e.g. giant squids.
+Gargantuan whales are up to 60’ long. Dwell in open oceans and hunt deep sea monsters (e.g., giant squids.
 
 ------
 

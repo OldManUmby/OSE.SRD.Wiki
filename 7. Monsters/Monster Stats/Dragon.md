@@ -1,8 +1,8 @@
 # Dragon
 
-A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many subspecies of dragon, many of which are distinguished by the colour of their scales. All dragons are egg-layers and hoard treasure in their lairs, far from areas of human civilisation.
+A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many subspecies of dragons, many of which are distinguished by the color of their scales. All dragons are egg-layers and hoard treasure in their lairs, far from areas of human civilization.
 
-- **Behaviour:** Chaotic dragons usually try to eat humans, but may sometimes capture them. Neutral dragons may attack or ignore humans. Lawful dragons may aid parties worthy of the honour.
+- **Behavior:** Chaotic dragons usually try to eat humans but may sometimes capture them. Neutral dragons may attack or ignore humans. Lawful dragons may aid parties worthy of the honor.
 
 - **Pride:** Dragons are immensely proud creatures and will always listen to flattery.
 
@@ -12,7 +12,7 @@ A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many 
 
    
 
-  Can be used up to three times per day. All caught in the area suffer damage equal to the dragon’s current hit points (
+  It can be used up to three times per day. All caught in the area suffer damage equal to the dragon’s current hit points (
 
   save versus breath
 
@@ -21,12 +21,12 @@ A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many 
   for half). Shapes of breath weapon:
 
   - **Cloud:** 50’ long, 40’ wide, 20’ high.
-  - **Cone:** 2’ wide at the mouth, 30’ wide at far end.
-  - **Line:** 5’ wide along whole length.
+  - **Cone:** 2’ wide at the mouth, 30’ wide at the far end.
+  - **Line:** 5’ wide along the whole length.
 
 - **Energy immunity:** Unharmed by their own breath weapon or lesser versions thereof. Automatically save versus similar attack forms. (For example, a red dragon is immune to flaming oil and suffers half damage from *fire ball* spells.)
 
-- **Language and spells:** Some dragons are able to speak (their own tongue plus Common). The chance is listed by subspecies. Those that can speak can also cast randomly selected magic-user spells(the listed number and level of spells).
+- **Language and spells:** Some dragons are able to speak (their tongue plus Common). The chance is listed by subspecies. Those who can speak can also cast randomly selected magic-user spells(the listed number and level of spells).
 
 - **Sleeping:** The chance of a dragon being asleep when encountered on the ground is listed by subspecies. A sleeping dragon may be attacked for one round with a +2 bonus to hit. Dragons may sometimes pretend to be asleep!
 

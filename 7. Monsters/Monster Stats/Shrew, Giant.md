@@ -1,6 +1,6 @@
 # Shrew, Giant
 
-Brown-furred, mole-like, insectivores with long snouts. Dwell underground; skilled burrowers.
+Brown-furred, mole-like insectivores with long snouts. Dwell underground; skilled burrowers.
 
 ------
 

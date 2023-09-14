@@ -1,6 +1,6 @@
 # Griffon
 
-Large, rapacious predators combining the features of an eagle (head, wings, front claws) and a lion. Prey on horses.
+Large, rapacious predators combine the features of an eagle (head, wings, front claws) and a lion. Prey on horses.
 
 ------
 

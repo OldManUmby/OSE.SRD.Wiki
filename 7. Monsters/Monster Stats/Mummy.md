@@ -19,7 +19,7 @@ Undead humanoids wrapped in funerary bandages. Haunt ruins and tombs.
 
 ------
 
-- **Paralyse with terror:** Anyone seeing a mummy must **save versus paralysis** or be paralysed with terror. Paralysis is broken if the mummy attacks or goes out of sight.
+- **Paralyse with terror:** Anyone seeing a mummy must **save versus paralysis** or be paralyzed with terror. Paralysis is broken if the mummy attacks or goes out of sight.
 - **Disease:** Anyone hit contracts a horrible rotting disease. Magical healing is ineffective; natural healing is ten times slower. The disease can only be removed by magic.
-- **Damage immunity:** Only harmed by fire or magic. All damage reduced by half.
-- **Undead:** Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. *charm*, *hold*, *sleep.
+- **Damage immunity:** Only harmed by fire or magic; all damage is reduced by half.
+- **Undead:** Make no noise until they attack. Immune to effects that affect living creatures (e.g., poison). Immune to mind-affecting or mind-reading spells (e.g., *charm*, *hold*, *sleep*).

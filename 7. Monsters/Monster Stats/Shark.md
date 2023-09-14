@@ -1,13 +1,13 @@
 # Shark
 
-Aggressive, predatory fish of low intelligence and unpredictable behaviour. Live in saltwater.
+Aggressive, predatory fish of low intelligence and unpredictable behavior. Live in saltwater.
 
 - **Blood scent:** Can detect blood in water up to 300’ away.
 - **Feeding frenzy:** Triggered by the scent of blood: always attack; no morale checks.
 
 ## Bull Shark
 
-8’ long; brown colouration. Attack by ramming, then biting the stunned prey.
+8’ long; brown coloration. Attack by ramming, then biting the stunned prey.
 
 ------
 
@@ -31,7 +31,7 @@ Aggressive, predatory fish of low intelligence and unpredictable behaviour. Live
 
 ## Great White Shark
 
-30’ long (or bigger!); grey colouration with white belly. Sometimes attack small boats.
+30’ long (or bigger!); grey coloration with a white belly. Sometimes attack small boats.
 
 ------
 
@@ -54,7 +54,7 @@ Aggressive, predatory fish of low intelligence and unpredictable behaviour. Live
 
 ## Mako Shark
 
-15’ long; bluish-grey or tan colouration.
+15’ long; bluish-grey or tan coloration.
 
 ------
 

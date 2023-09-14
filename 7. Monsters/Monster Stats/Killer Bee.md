@@ -21,7 +21,7 @@ Giant (1’ long) bees of aggressive temperament. Build hives underground.
 
 - **Aggressive:** Usually attack on sight. Always attack intruders within 30’ of their hive.
 - **Die after attacking:** On a successful sting attack, a killer bee dies.
-- **Poison:** Causes death (**save vs poison**).
+- **Poison:** Causes death (**save vs. poison**).
 - **Lodged stinger:** Inflicts 1 damage per round, as the stinger works its way in. A round can be spent to remove it.
 - **Queen:** A 2HD queen lives in the hive. The queen does not die when she stings.
 - **Guards:** At least 10 bees (4 or more of which have 1HD) remain in or near the hive to protect the queen.

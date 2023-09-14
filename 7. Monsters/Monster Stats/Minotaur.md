@@ -20,4 +20,4 @@ Large, brutish, bull-headed men with a craving for human flesh. Dwell in mazes a
 ------
 
 - **Weapons:** Prefer axes, clubs, or spears.
-- **Aggressive:** Attack same size or smaller creatures on sight. Pursue until the victims are out of sight.
+- **Aggressive:** Attack the same size or smaller creatures on sight. Pursue until the victims are out of sight.

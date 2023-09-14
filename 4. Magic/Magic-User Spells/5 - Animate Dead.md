@@ -17,4 +17,4 @@ Causes corpses or skeletons to rise as undead skeletons or zombies.
 
 - **Skeletons:** Have AC 7 [12] and HD equal to those the creature had in life.
 - **Zombies:** Have AC 8 [11] and HD one greater than the creature had in life.
-- **Classed characters:** If a PC or NPC with levels in a class is reanimated by this spell, the levels are not counted as HD. For example, the reanimated corpse of a 5th level fighter would have 2 HD (1 HD as a normal human, +1 for being reanimated as a zombie).
+- **Classed characters:** If a PC or NPC with levels in a class is reanimated by this spell, the levels are not counted as HD. For example, the reanimated corpse of a 5th-level fighter would have 2 HD (1 HD as a normal human, +1 for being reanimated as a zombie).

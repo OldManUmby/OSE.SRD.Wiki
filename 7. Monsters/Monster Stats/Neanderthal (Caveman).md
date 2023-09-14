@@ -22,4 +22,4 @@ Squat, powerful, primitive demihumans with ape-like faces. Dwell in caverns and 
 - **Weapons:** Prefer stone axes, stone hammers, clubs, or spears.
 - **Leaders:** Two 6HD leaders (one male, one female) live in the neanderthal lair. They are 10’ tall and of a related but distinct race.
 - **Racial animosity:** Attack ogres on sight. Hate goblins and kobolds.
-- **Pets:** Sometimes keep white apes as pets (see ***Ape, White.
+- **Pets:** Sometimes keep white apes as pets (see ***Ape, White***).

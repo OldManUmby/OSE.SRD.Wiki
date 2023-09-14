@@ -6,10 +6,10 @@
 
 **Range:** 10’
 
-The caster or a single creature is instantly transferred to another location up to 360’ distant. The destination may be selected in two ways:
+The caster or a single creature is instantly transferred to another location up to 360’ distance. The destination may be selected in two ways:
 
 1. **Known location:** A location, within 360’, known to the caster.
-2. **An unknown location:** Specified by a series of offsets (e.g. 120’ north, 160’ east, 80’ up) totalling not more than 360’.
+2. **An unknown location:** Specified by a series of offsets (e.g. 120’ north, 160’ east, 80’ up) totaling not more than 360’.
 
 **Stipulations:** The following apply:
 

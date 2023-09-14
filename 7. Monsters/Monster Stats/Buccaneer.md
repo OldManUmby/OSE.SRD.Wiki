@@ -20,8 +20,8 @@ Sailors who make a living by raiding coastal settlements and robbing other ships
 ------
 
 - **Ships and crew:** Depends where encountered. Rivers or lakes: 1d8 river boats (1d2 × 10 buccaneers each); coastal waters: 1d6 small galleys (1d3+1 × 10 buccaneers each); any: 1d4 longships (1d3+2 × 10 buccaneers each); ocean: 1d3 small warships (1d5+3 × 10 buccaneers each). (See Water Vessels for details on ships.)
-- **Arms:** 60% of group have: leather armor, sword; 30% have: leather armor, sword, crossbow; 10% have: chainmail, sword, crossbow.
-- **Leaders and captains:** For every 30 buccaneers, there is a 4th level fighter. Each ship has a captain (7th level fighter).
-- **Fleet commander:** 9th level fighter. 30% chance of a magic-user (level 1d2 + 9); 25% chance of a cleric (8th level).
-- **Treasure:** Divided between vessels. Instead of carrying aboard, may have a map to where it is buried.
+- **Arms:** 60% of the group have: leather armor, sword; 30% have: leather armor, sword, or crossbow; 10% have: chainmail, sword, or crossbow.
+- **Leaders and captains:** For every 30 buccaneers, there is a 4th-level fighter. Each ship has a captain (7th-level fighter).
+- **Fleet commander:** 9th level fighter. 30% chance of a magic-user (level 1d2 + 9); 25% chance of a cleric (8th-level).
+- **Treasure:** Divided between vessels. Instead of carrying aboard, may have a map of where it is buried.
 - **Havens:** Lawless, fortified, coastal towns may act as a haven for buccaneers and pirates.

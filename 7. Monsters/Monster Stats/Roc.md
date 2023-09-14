@@ -5,7 +5,7 @@ Gigantic birds of prey that nest in the highest peaks of isolated mountain range
 - **Alignment reaction:** -1 to reaction rolls versus Neutral characters; -2 versus Chaotic characters.
 - **Swoop:** Can dive onto victims visible from above. If the victim is surprised, the attack inflicts double damage. On an attack roll of 18 or more, the victim can be carried away (if of appropriate size).
 - **Eggs:** 1d6 eggs or chicks in 50% of nests.
-- **Trainable:** Can be trained, if captured when young.
+- **Trainable:** Can be trained if captured when young.
 
 ## Giant Roc
 

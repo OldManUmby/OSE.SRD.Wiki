@@ -28,7 +28,7 @@ Large, savage, semi-intelligent wolves. Dwell in caves, mountains, and forests.
 
 ## Normal Wolf
 
-Dwell primarily in wild lands, but occasionally lair in caves.
+Dwell primarily in wild lands but occasionally lair in caves.
 
 ------
 

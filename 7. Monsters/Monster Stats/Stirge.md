@@ -19,6 +19,6 @@ Feathered, bird-like creatures with long, sharp beaks.
 
 ------
 
-- **Dive attack:** First attack is at +2 to hit.
-- **Blood sucking:** Upon a successful attack, attaches and drains victim’s blood: 1d3 automatic damage per round.
+- **Dive attack:** The first attack is at +2 to hit.
+- **Blood sucking:** Upon a successful attack, attaches and drains the victim’s blood: 1d3 automatic damage per round.
 - **Detach:** If stirge or victim dies.

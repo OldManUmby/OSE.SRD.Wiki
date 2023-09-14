@@ -21,4 +21,4 @@ Fantastic creatures with the legs and body of a horse, and the upper body and he
 
 - **Weapons:** Bows, clubs, lances.
 - **Lair:** Hidden in dense woods, along twisting, guarded paths.
-- **Females and young:** Normally remain in the lair. Flee if attacked. Young have 2HD and make 2 hoof attacks (1d2) and 1 weapon attack (1d4 or by weapon).
+- **Females and young:** Normally remain in the lair. Flee if attacked. Young has 2HD and makes 2 hoof attacks (1d2) and 1 weapon attack (1d4 or by weapon).

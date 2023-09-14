@@ -19,4 +19,4 @@
 
 ------
 
-- **Poison:** Causes victims to become horribly sick for ten days (**save versus poison**): no physical activity possible except half speed movement.
+- **Poison:** Causes victims to become horribly sick for ten days (**save versus poison**): no physical activity possible except half-speed movement.

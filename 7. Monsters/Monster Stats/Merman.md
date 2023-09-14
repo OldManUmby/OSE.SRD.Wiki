@@ -1,6 +1,6 @@
 # Merman
 
-Aquatic humanoids with fish tails in place of legs. Live in coastal waters, farming seaweed and hunting fish.
+Aquatic humanoids with fish tails in place of legs. Live in coastal waters, farming seaweed, and hunting fish.
 
 ------
 

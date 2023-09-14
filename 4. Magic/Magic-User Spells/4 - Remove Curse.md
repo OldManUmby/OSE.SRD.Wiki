@@ -15,4 +15,4 @@ Places a deleterious effect upon a creature, if it fails a **save versus spells*
 - **Effects:** The exact form and effects of the curse are determined by the caster.
 - **Maximum possible effects include:** A –2 saving throw penalty, a –4 attack roll penalty, reducing an ability score by 50%.
 - **Multiple curses:** May afflict a creature, as long as each has a different effect.
-- **Referee judgement:** The referee should judge the effects of this spell and may turn overly powerful curses back onto the caster!
+- **Referee judgment:** The referee should judge the effects of this spell and may turn overly powerful curses back onto the caster!

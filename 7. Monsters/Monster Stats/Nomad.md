@@ -1,6 +1,6 @@
 # Nomad
 
-Superstitious tribes who wander steppes and desert regions, living in tents or temporary huts. Demeanour depends on the tribe: some are warlike, others peaceful.
+Superstitious tribes who wander steppes and desert regions, living in tents or temporary huts. Demeanor depends on the tribe: some are warlike, others peaceful.
 
 ------
 
@@ -20,10 +20,10 @@ Superstitious tribes who wander steppes and desert regions, living in tents or t
 ------
 
 - **Mounted:** On riding horses or (in the desert) on camels.
-- **Arms (desert):** 50% of group have: leather armor, shield, lance; 30% have: chainmail, shield, lance; 20% have: leather armor, shortbow.
-- **Arms (steppes):** 50% of group have: leather armor, shortbow; 20% have: leather armor, shield, lance; 20% have: chainmail, shortbow; 10% have: chainmail, shield, lance, and may be mounted on a war horse.
+- **Arms (desert):** 50% of the group have: leather armor, shield, or lance; 30% have: chainmail, shield, or lance; 20% have: leather armor, or shortbow.
+- **Arms (steppes):** 50% of the group have: leather armor, shortbow; 20% have: leather armor, shield, or lance; 20% have: chainmail, shortbow; 10% have: chainmail, shield, lance, and may be mounted on a war horse.
 - **Leaders:** For every 25 nomads, there is a 2nd level fighter. For every 40 nomads, there is a 4th level fighter.
-- **Camps:** Hunting / foraging groups commonly combine and live in a tribe of up to 300 nomad warriors.
+- **Camps:** Hunting/foraging groups commonly combine and live in a tribe of up to 300 nomad warriors.
 - **Camp leaders:** Tribal chief (8th level fighter), plus a 5th level fighter for every 100 nomads. 50% chance of a cleric (9th level); 25% chance of a magic-user (8th level).
 - **Hoard:** Only have treasure type A in the camp.
 - **Traders:** Often carry trade route tales of faraway lands.

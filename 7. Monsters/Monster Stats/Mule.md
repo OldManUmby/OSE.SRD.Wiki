@@ -19,6 +19,6 @@ Stubborn horse/donkey cross-breeds used as beasts of burden.
 
 ------
 
-- **Tenacious:** Can be taken underground, if the referee allows it.
+- **Tenacious:** Can be taken underground if the referee allows it.
 - **Defensive:** May attack if threatened, but cannot be trained to attack on command.
 - **Carry loads:** Up to 2,000 coins unencumbered; up to 4,000 at half speed.

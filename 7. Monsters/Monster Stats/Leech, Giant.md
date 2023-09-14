@@ -19,6 +19,6 @@ Horrid, 3–4’ long, slug-like creatures with sucker mouths. Lurk in swamps.
 
 ------
 
-- **Blood drain:** Attaches to victim on a successful hit, doing 1d6 automatic damage per round.
+- **Blood drain:** Attaches to the victim on a successful hit, doing 1d6 automatic damage per round.
 - **Detaching:** Must be killed.
 - **If victim dies:** Leech detaches and finds a hidden place to digest.

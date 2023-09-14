@@ -7,7 +7,7 @@
 | Armor Class     | 7 [12]                         |
 | ---------------- | ------------------------------ |
 | Hit Dice         | 4+4 (22hp)                     |
-| Attacks          | 1 × bite (2d4 + blood sucking) |
+| Attacks          | 1 × bite (2d4 + bloodsucking) |
 | THAC0            | 15 [+4]                        |
 | Movement         | 150’ (50’)                     |
 | Saving Throws    | D12 W13 P14 B15 S16 (3)        |
@@ -21,6 +21,6 @@
 
 - **Infravision:** 30’.
 - **Blood sucking:** Upon a successful attack, locks onto the victim and drains its blood: 2d4 automatic damage per round.
-- **Detaching:** If weasel or victim dies.
-- **Tracking:** By scent, favouring wounded prey.
-- **Treasure:** Found in lair on bodies of victims.
+- **Detaching:** If the weasel or victim dies.
+- **Tracking:** By scent, favoring wounded prey.
+- **Treasure:** Found in a lair on the bodies of victims.

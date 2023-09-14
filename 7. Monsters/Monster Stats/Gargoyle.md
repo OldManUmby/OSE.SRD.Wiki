@@ -19,7 +19,7 @@ Magical monsters that look like hideous, horned, winged statues. Semi-intelligen
 
 ------
 
-- **Blend in with stone:** May be overlooked or mistaken for inanimate statues.
+- **Blend in with stone:** This may be overlooked or mistaken for inanimate statues.
 - **Guardians:** Almost always attack when approached.
 - **Mundane damage immunity:** Can only be harmed by magical attacks.
 - **Spell immunity:** Unaffected by *sleep* or *charm* spells.

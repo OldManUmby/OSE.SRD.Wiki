@@ -27,7 +27,7 @@ Formed of crystals. Often human in form.
 ------
 
 - **Immunity:** See main entry.
-- **Attacks:** Depend on form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
+- **Attacks:** Depend on the form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
 
 ## Iron Living Statue
 
@@ -50,7 +50,7 @@ Formed of crystals. Often human in form.
 
 - **Immunity:** See main entry.
 - **Absorb metals:** Hits with non-magical, metal weapons cause damage, but the weapon may become stuck in the statue (**save versus spells**). Stuck weapons can be removed if the statue is killed.
-- **Attacks:** Depend on form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
+- **Attacks:** Depend on the form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
 
 ## Rock Living Statue
 

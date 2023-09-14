@@ -19,5 +19,5 @@
 
 ------
 
-- **Spells:** Each individual has one 1st level arcane spell memorized. (Choose or select at random.)
+- **Spells:** Each individual has one 1st-level arcane spell memorized. (Choose or select at random.)
 - **Master:** 50% of groups are led by a magic-user of 3rd level. The master has two 1st level spells and one 2nd level spell. (Choose or select at random.)

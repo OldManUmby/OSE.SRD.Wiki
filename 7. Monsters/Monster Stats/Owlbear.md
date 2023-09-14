@@ -19,4 +19,4 @@ Huge (8’ tall, 1,500 pounds), ill-tempered, carnivorous bear-like creature wit
 
 ------
 
-- **Bear hug:** If a victim is hit by both paws in the same round, the owl bear hugs for an extra 2d8 automatic damage.
+- **Bear hug:** If both paws hit a victim in the same round, the owl bear hugs for an extra 2d8 automatic damage.

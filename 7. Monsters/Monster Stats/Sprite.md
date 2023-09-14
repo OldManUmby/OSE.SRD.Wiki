@@ -1,6 +1,6 @@
 # Sprite
 
-1’ tall, winged humanoids, related to pixies and elves. They are shy, but driven by curiosity and their odd sense of humour.
+1’ tall, winged humanoids related to pixies and elves. They are shy but driven by curiosity and their odd sense of humor.
 
 ------
 
@@ -19,5 +19,5 @@
 
 ------
 
-- **Curse:** Five sprites can collectively curse a target (no attack roll; **save versus spells**). The effect is determined by the referee, but will always be used to comical effect (e.g. target trips, target’s nose grows).
+- **Curse:** Five sprites can collectively curse a target (no attack roll; **save versus spells**). The referee determines the effect but will always be used to comical effect (e.g., target trips, target’s nose grows).
 - **Pranksters:** Even if attacked, sprites have no interest in killing, merely in making practical jokes.

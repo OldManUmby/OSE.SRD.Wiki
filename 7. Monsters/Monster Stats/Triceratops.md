@@ -20,5 +20,5 @@ Massive (12’ to the shoulder, almost 40’ long), aggressive, herbivorous dino
 ------
 
 - **Aggressive:** Normally attack on sight.
-- **Charge:** In first round of combat, when not in melee. Requires a clear run of at least 20 yards. Horns inflict double damage.
+- **Charge:** In the first round of combat, when not in melee. Requires a clear run of at least 20 yards. Horns inflict double damage.
 - **Trample:** 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.

@@ -20,5 +20,5 @@ Intelligent, reptilian humanoids with agile hands, long legs, short tails, and s
 ------
 
 - **Hateful:** Attempt to kill any creatures they encounter.
-- **Surprise:** On a 1–4, due to the ability to change colour to match their surroundings. Lurk by rock walls and await victims.
+- **Surprise:** On a 1–4, due to the ability to change color to match their surroundings. Lurk by rock walls and await victims.
 - **Nauseating stench:** Oils on the skin have a smell that sickens humans and demihumans: **save versus poison** or suffer -2 to hit, while in melee with troglodytes.

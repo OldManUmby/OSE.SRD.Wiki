@@ -1,6 +1,6 @@
 # Insect Swarm
 
-Swarms of many tiny insects that may be encountered protecting their nest. May also be drawn to light or unusual smells.
+Swarms of many tiny insects may be encountered, protecting their nest. May also be drawn to light or unusual smells.
 
 ------
 
@@ -19,11 +19,11 @@ Swarms of many tiny insects that may be encountered protecting their nest. May a
 
 ------
 
-- **Type and locomotion:** A swarm may be composed of creepers (e.g. spiders, ants, centipedes) or flyers (e.g. bees, hornets). Some swarms are capable of both types of movement (e.g. beetles, locusts).
+- **Type and locomotion:** A swarm may comprise creepers (e.g., spiders, ants, centipedes) or flyers (e.g., bees, hornets). Some swarms can both types of movement (e.g., beetles, locusts).
 - **Size:** 10’ × 30’ area, typically.
 - **Immunity:** Only harmed by fire, extreme cold, *sleep* spells (affect the whole swarm), smoke (drives off), or other attacks as the referee wishes.
 - **Swarm attack:** Automatically damages characters within swarm area: 2hp if wearing armor, 4hp without.
 - **Warding off:** Characters inside the swarm who defend themselves by brandishing a weapon (or similar) suffer half damage from the swarm. A brandished torch damages the swarm.
 - **Escaping:** On exiting the swarm, characters continue to suffer half damage until 3 rounds are spent swatting the attached insects.
 - **Diving into water:** Suffer damage for one round, then attached insects drown.
-- **Pursuit:** An angry (i.e. damaged) swarm will pursue characters until they are out of sight or inaccessible.
+- **Pursuit:** An angry (i.e., damaged) swarm will pursue characters until they are out of sight or inaccessible.

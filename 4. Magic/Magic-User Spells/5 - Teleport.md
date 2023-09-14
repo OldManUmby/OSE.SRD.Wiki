@@ -9,8 +9,8 @@
 The caster or a chosen creature vanishes and reappears at a location of the caster’s choosing.
 
 - **Gear:** The subject is teleported with all its gear, up to its maximum load.
-- **Unwilling subjects:** May **save versus spells** to prevent the teleportation.
-- **Destination:** May be at any distance, but must be known to the caster. The destination must be an open space at ground level. (It is not possible to intentionally teleport the subject into mid-air or into solid matter.)
+- **Unwilling subjects:** May **save versus spells** to prevent teleportation.
+- **Destination:** This may be at any distance, but must be known to the caster. The destination must be an open space at ground level. (It is not possible to intentionally teleport the subject into mid-air or into solid matter.)
 - **Risk:** There is a risk, when teleporting, of accidentally arriving above or below ground level. The chance of a successful teleportation depends on the caster’s knowledge of the destination (see below). Roll d% and consult the table below.
 
 | Knowledge of Dest. | Ground Level | Too High | Too Low |

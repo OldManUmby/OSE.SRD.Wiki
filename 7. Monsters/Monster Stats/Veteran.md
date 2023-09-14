@@ -1,6 +1,6 @@
 # Veteran
 
-Low level fighters, often on their way to or from war.
+Low-level fighters, often on their way to or from war.
 
 ------
 
@@ -19,4 +19,4 @@ Low level fighters, often on their way to or from war.
 
 ------
 
-- **Level and alignment:** A group may all be of the same level and alignment, or these may be determined randomly, per individual.
+- **Level and alignment:** A group may all be of the same level and alignment, or these may be determined randomly per individual.

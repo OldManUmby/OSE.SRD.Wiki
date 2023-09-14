@@ -19,5 +19,5 @@
 
 ------
 
-- **Lunge:** Up to 20’ out of water to use bite attack.
+- **Lunge:** Up to 20’ out of the water to use a bite attack.
 - **Squeeze:** Coil around and crush a vessel (of equal size or smaller).

@@ -21,4 +21,4 @@ Giant (18’ tall) humanoids that look like trees. Dwell in forests. Are concern
 
 - **Distrust fire:** And those who wield it.
 - **Surprise:** On a 1–3, in a forest, due to being mistaken for a tree. Encounter occurs at 30 yards or less.
-- **Animate trees:** Each individual can animate 2 trees (within 60’; may switch trees at will). These fight as treants with movement rate 30’ (10’).
+- **Animate trees:** Each individual can animate 2 trees (within 60’; may switch trees at will). These fight as treants with a movement rate 30’ (10’).

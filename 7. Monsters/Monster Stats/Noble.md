@@ -19,5 +19,5 @@ Powerful humans with noble titles (e.g. Count, Duke, Knight, etc.). Dwell in cas
 
 ------
 
-- **Class:** Usually treated as 3rd level fighters, but may be of any class and level.
-- **Squire and retainers:** Accompanied by a 2nd level fighter (a squire) and up to ten 1st level fighters (retainers).
+- **Class:** Usually treated as 3rd-level fighters, but may be of any class and level.
+- **Squire and retainers:** Accompanied by a 2nd-level fighter (a squire) and up to ten 1st-level fighters (retainers).

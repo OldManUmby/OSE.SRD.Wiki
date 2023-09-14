@@ -20,8 +20,8 @@ Fanatically religious, nomadic people who wander steppes and desert regions, liv
 ------
 
 - **Mounted:** On warhorses.
-- **Arms:** 50% of group have: leather armor, shield, lance; 25% have: leather armor, shield, shortbow, sword; 25% have: chainmail, shield, lance.
+- **Arms:** 50% of the group have: leather armor, shield, or lance; 25% have: leather armor, shield, shortbow, or sword; 25% have: chainmail, shield, and lance.
 - **Camps:** Groups commonly combine and live in a camp or tribe of up to 300 dervishes, plus women, children, and animals. 25% chance of a wood or brick enclosure.
-- **Camp leaders:** Led by 10th level cleric.
+- **Camp leaders:** Led by a 10th-level cleric.
 - **Intolerant:** Of other religious views.
-- **Holy war:** Occasionally wage war against other religious factions. Will slay people of different faith, or take them prisoner. Prisoners must convert; otherwise killed or used as slaves. Characters of Lawful alignment may be asked to join the holy war. Dervishes are highly suspicious of those who refuse (without good reason).
+- **Holy war:** Occasionally wage war against other religious factions. Will slay people of different faiths, or take them prisoner. Prisoners must convert; otherwise killed or used as slaves. Characters of Lawful alignment may be asked to join the holy war. Dervishes are highly suspicious of those who refuse (without good reason).

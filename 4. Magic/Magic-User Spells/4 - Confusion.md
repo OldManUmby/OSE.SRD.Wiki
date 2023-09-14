@@ -1,7 +1,5 @@
 # Confusion
 
-Jump to:navigation, search
-
 *4th Level Magic-User Spell*
 
 **Duration:** 12 rounds
@@ -12,7 +10,7 @@ Jump to:navigation, search
 
 - **Subjects of 2+1 HD or greater:** May **save versus spells** each round to resist the spell’s effect, acting with free will that round if they make the save.
 - **Subjects of 2 HD or lower:** May not make a saving throw.
-- **Behaviour:** Roll on the following table separately for each affected subject each round to determine how that subject acts that round:
+- **Behavior:** Roll on the following table separately for each affected subject each round to determine how that subject acts that round:
 
 | 2d6  | Behaviour              |
 | :--: | :--------------------- |

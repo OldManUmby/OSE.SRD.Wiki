@@ -20,5 +20,5 @@ Highly intelligent, magical creatures summoned from another plane of existence t
 ------
 
 - **Tracking:** Without fault.
-- **Surprise:** On a 1–5, unless target can detect invisibility.
-- **If killed:** Returns to plane of origin.
+- **Surprise:** On a 1–5, unless the target can detect invisibility.
+- **If killed:** Returns to the plane of origin.

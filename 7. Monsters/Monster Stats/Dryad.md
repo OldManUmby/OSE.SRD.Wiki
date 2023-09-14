@@ -23,4 +23,4 @@ Shy, peaceful, yet wary tree spirits that can manifest as beautiful female human
 - **Meld with tree:** Can disappear by joining with her tree.
 - **Defensive:** Distrustful of strangers. Attempt to charm anyone who approaches or follows.
 - **Charm:** Victim compelled to approach the tree, vanishes inside it (**save versus spells with a -2 penalty**). If not immediately rescued, the victim is lost forever.
-- **Treasure:** Hidden in roots of the tree.
+- **Treasure:** Hidden in the roots of the tree.

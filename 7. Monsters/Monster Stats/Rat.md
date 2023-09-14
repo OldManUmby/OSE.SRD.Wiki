@@ -1,6 +1,6 @@
 # Rat
 
-Multitudinous, disease-ridden rodents that will eat anything. Avoid contact with humans, but may attack if defending their nest or if summoned and commanded by magic (e.g. see Wererat.
+Multitudinous, disease-ridden rodents that will eat anything. Avoid contact with humans but may attack if defending their nest or if summoned and commanded by magic (e.g., see Wererat.
 
 - **Disease:** Bite has a 1-in-20 chance of infecting the target (**save versus poison**). The disease has a 1-in-4 chance of being deadly (die in 1d6 days). Otherwise, the victim is sick and bedridden for one month.
 - **Afraid of fire:** Will flee fire, unless forced to fight by summoner.

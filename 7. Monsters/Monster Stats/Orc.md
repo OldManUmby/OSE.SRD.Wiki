@@ -20,7 +20,7 @@ Ugly, bad-tempered, animalistic humanoids who live underground and are active at
 ------
 
 - **Hate the sun:** -1 to-hit in full daylight.
-- **Weapons:** Prefer axes, clubs, spears, or swords. Only leaders can use mechanical weapons (e.g. crossbows, catapults).
+- **Weapons:** Prefer axes, clubs, spears, or swords. Only leaders can use mechanical weapons (e.g., crossbows, catapults).
 - **Craven:** Afraid of larger or stronger-looking creatures, though leaders may force them to fight.
 - **Leader:** Groups are led by an orc with 8 hit points. The leader gains a +1 bonus to damage rolls. Leaders have defeated other orcs in combat to gain their position.
 - **Orc chieftain:** A 4HD (15hp) chieftain rules an orc tribe. The chieftain gains a +2 bonus to damage rolls.

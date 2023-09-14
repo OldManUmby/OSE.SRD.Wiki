@@ -23,4 +23,4 @@ Irascible animals that are adapted to life in dry climates. Often used for trans
 - **Water:** After drinking well, can survive 2 weeks without water.
 - **Desert travel:** Move at full speed through broken lands and deserts.
 - **Carry loads:** Up to 3,000 coins unencumbered; up to 6,000 at half speed.
-- **Charge attacks:** Are not possible, when mounted on a camel.
+- **Charge attacks:** These are not possible, when mounted on a camel.

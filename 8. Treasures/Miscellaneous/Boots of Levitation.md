@@ -1,6 +1,6 @@
 # Boots of Levitation
 
-The wearer is able to move up and down through the air at will.
+The wearer can move up and down through the air at will.
 
 - **Vertical:** The caster mentally directs vertical movement at up to 20’ per round.
 - **Horizontal:** The caster can push against solid objects to move laterally.

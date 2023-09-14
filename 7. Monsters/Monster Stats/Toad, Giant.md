@@ -19,6 +19,6 @@ Warty amphibians with long, sticky tongues. As large as a great hound, weighing 
 
 ------
 
-- **Surprise:** On a 1–3, in forests or dark dungeons, due to the ability to change colour to match their surrounding.
+- **Surprise:** On a 1–3, in forests or dark dungeons, due to the ability to change color to match their surrounding.
 - **Sticky tongue:** Attack up to 15’ away. On a hit, prey (up to dwarf size) is dragged to the mouth and bitten.
 - **Swallow whole:** A natural 20 attack roll indicates a small victim is swallowed. Inside the toad’s belly: suffer 1d6 damage per round (until the toad dies); may attack with sharp weapons at -4 to hit; body digested in 6 turns after death.

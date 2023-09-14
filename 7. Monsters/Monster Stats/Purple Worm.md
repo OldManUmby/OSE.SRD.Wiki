@@ -20,5 +20,5 @@ Gigantic, slimy worms with bodies 100’ long and 8–10’ thick. Bore tunnels 
 ------
 
 - **Swallow whole:** A bite attack roll of 20, or 4 or more than the target number required, indicates that a human-sized (or smaller) victim is swallowed. Inside the worm’s belly: suffer 3d6 damage per round (until the worm dies); may attack with sharp weapons at -4 to hit; body digested in 6 turns after death.
-- **Poison:** Causes death (**save vs poison**).
+- **Poison:** Causes death (**save vs. poison**).
 - **In restricted spaces:** May not always be able to bite and sting at once.

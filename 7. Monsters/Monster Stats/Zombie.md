@@ -21,4 +21,4 @@ Listless, humanoid corpses, reanimated as guardians by powerful clerics or wizar
 
 - **Guardians:** Always attack on sight.
 - **Initiative:** Always lose (no roll).
-- **Undead:** Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. *charm*, *hold*, *sleep.
+- **Undead:** Make no noise until they attack. Immune to effects that affect living creatures (e.g., poison). Immune to mind-affecting or mind-reading spells (e.g., *charm*, *hold*, *sleep*).

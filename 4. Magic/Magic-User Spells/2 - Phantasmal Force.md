@@ -14,6 +14,6 @@ A visual illusion of the caster’s choosing manifests in a 20’ cube area. Thr
 
 **Stipulations:** The following apply:
 
-- **Concentration:** Is required to maintain the illusion. If the caster moves or loses concentration, the spell ends.
+- **Concentration:** Required to maintain the illusion. If the caster moves or loses concentration, the spell ends.
 - **Illusionary monsters or attacks:** May appear to be harmful but no real damage is ever inflicted. A character who appears to die actually falls unconscious, a character turned to stone will actually be paralyzed, and so on. Such effects last for 1d4 turns.
 - **Illusions from imagination:** If the illusion is of something the caster has not personally seen, the referee should grant targets a bonus to any applicable saving throws.

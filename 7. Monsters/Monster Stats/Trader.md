@@ -20,4 +20,4 @@
 ------
 
 - **Arms:** Usually carry: hand-axe, sword, shield, furs (equivalent to leather armor).
-- **Mules:** In the wilderness, have 1d4 mules loaded with trade goods (e.g. carved wooden items, furs, spices).
+- **Mules:** In the wilderness, have 1d4 mules loaded with trade goods (e.g., carved wooden items, furs, spices).

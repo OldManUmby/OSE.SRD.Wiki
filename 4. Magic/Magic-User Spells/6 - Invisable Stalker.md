@@ -14,7 +14,7 @@ An invisible stalker (see below) is summoned to the caster’s presence and magi
 
 #### Invisible Stalker
 
-Highly intelligent, magical creatures summoned from another plane of existence to perform tasks for powerful magic-users.
+Highly intelligent, magical creatures are summoned from another plane of existence to perform tasks for powerful magic-users.
 
 ------
 
@@ -23,5 +23,5 @@ Highly intelligent, magical creatures summoned from another plane of existence t
 ------
 
 - **Tracking:** Without fault.
-- **Surprise:** On a 1–5, unless target can detect invisibility.
-- **If killed:** Returns to plane of origin.
+- **Surprise:** On a 1–5, unless the target can detect invisibility.
+- **If killed:** Returns to the plane of origin.

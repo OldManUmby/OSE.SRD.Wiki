@@ -28,7 +28,7 @@ Dim, armored, herbivorous mammals.
 
 ## Woolly Rhinoceros
 
-Giant rhinoceroses adapted for cold climates: their bodies covered with shaggy, white fur. Live in herds, in cold Lost World areas.
+Giant rhinoceroses adapted for cold climates: their bodies are covered with shaggy, white fur. Live in herds, in cold Lost World areas.
 
 ------
 

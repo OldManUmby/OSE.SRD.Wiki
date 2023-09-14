@@ -1,9 +1,5 @@
 # Ring of Protection
 
-(Redirected from Ring of Protection, 5’ Radius
-
-Jump to:navigation, search
-
 Grants a measure of protection from harm:
 
 - **Armor Class:** A +1 AC bonus.
@@ -11,4 +7,4 @@ Grants a measure of protection from harm:
 
 ## Ring of Protection, 5’ Radius
 
-Allies within 5’ of the wearer also benefit from the ring’s protective power. For example, two characters fighting beside the wearer of the ring would gain the protective benefit.
+Allies within 5’ of the wearer also benefit from the ring’s protective power. For example, two characters fighting beside the ring's wearer would gain the protective benefit.

@@ -1,6 +1,6 @@
 # Hippogriff
 
-Fantastic creatures combining the features of a giant eagle (head and forequarters) and a horse. Nest among craggy rocks.
+They are fantastic creatures, combining the features of a giant eagle (head and forequarters) and a horse. Nest among craggy rocks.
 
 ------
 

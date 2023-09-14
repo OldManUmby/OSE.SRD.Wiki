@@ -19,8 +19,8 @@ Deadly fungus that covers walls, ceilings, and other surfaces.
 
 ------
 
-- **Area:** Each 10 square feet (e.g. 2’ × 5’) covered in yellow mould is treated as one “individual”. (A 10’ × 10’ area would consist of 10 individual moulds.)
+- **Area:** Every 10 square feet (e.g., 2’ × 5’) covered in yellow mold is treated as one “individual”. (A 10’ × 10’ area would consist of 10 individual molds.)
 - **Immunity:** Unharmed by all attacks but fire (a burning torch does 1d4 damage).
 - **Spore cloud:** 50% chance of attacking if touched (or damaged): releases a cloud of spores affecting all within a 10’ cube area.
 - **Choking:** **Save versus death** or die within 6 rounds.
-- **Erosion:** Wood or leather in contact with the mould will be eaten away.
+- **Erosion:** Wood or leather in contact with the mold will be eaten away.

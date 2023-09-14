@@ -1,6 +1,6 @@
 # Thoul
 
-Magical monstrosities that look like hobgoblins (except on close inspection), but combine the powers of ghouls and trolls. Sometimes live among hobgoblins.
+Magical monstrosities that look like hobgoblins (except on close inspection) but combine the powers of ghouls and trolls. Sometimes, they live among hobgoblins.
 
 ------
 

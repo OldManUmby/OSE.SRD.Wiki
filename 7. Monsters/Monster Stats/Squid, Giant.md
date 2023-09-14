@@ -19,7 +19,7 @@ Giant, ten-armed cephalopods. Two of the ten arms are larger, and may be used to
 
 ------
 
-- **Crush boats:** 25% likely to wrap the 2 large tentacles around a boat, doing 1d10 hull damage per tentacle. When the large tentacles are grappling a boat, in subsequent rounds, the beak inflicts 2 points of hull damage automatically.
+- **Crush boats:** 25% likely to wrap the 2 large tentacles around a boat, doing 1d10 hull damage per tentacle. When the large tentacles grapple a boat, in subsequent rounds, the beak inflicts 2 points of hull damage automatically.
 - **Grab crew:** 75% likely to grab crew from the deck and drag them underwater to be eaten.
 - **Constriction:** Tentacles grab and constrict after a hit. 1d4 automatic damage per round.
 - **Severing tentacles:** Requires a hit that inflicts 6 or more damage (8 small tentacles) or 10 or more damage (2 large tentacles).

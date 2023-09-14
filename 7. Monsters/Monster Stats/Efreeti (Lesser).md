@@ -27,9 +27,9 @@ Highly magical, free-willed, intelligent beings from the elemental plane of fire
 
   Each can be used three times per day:
 
-  - **Pillar of flame:** Transform into a column of fire for up to 3 rounds. Flammable items within 5’ are ignited. Attacks do additional 1d8 damage (3d8 total).
+  - **Pillar of flame:** Transform into a column of fire for up to 3 rounds. Flammable items within 5’ are ignited. Attacks do an additional 1d8 damage (3d8 total).
   - **Invisibility**
-  - **Illusion:** Visual and audial. No concentration required. Remains until touched or dispelled.
+  - **Illusion:** Visual and audial. No concentration is required. Remains until touched or dispelled.
   - **Create wall of fire**
   - **Create food and drink:** For 12 humans and mounts for one day.
   - **Conjure metallic objects:** Up to 1,000 coins weight. Temporary: hardness determines duration (gold: 1 day; iron: 1 round).
@@ -39,4 +39,4 @@ Highly magical, free-willed, intelligent beings from the elemental plane of fire
 
 - **Hate djinn:** Attack on sight.
 
-- **Bound servitor:** Efreet summoning spells can be researched by high-level magic-users. Can be bound to servitude for 101 days. Efreet are treacherous and will follow commands to the letter while subverting the intent.
+- **Bound servitor:** Efreet summoning spells can be researched by high-level magic-users. Can be bound to servitude for 101 days. Efreet is treacherous and will follow commands to the letter while subverting the intent.

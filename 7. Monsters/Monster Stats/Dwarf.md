@@ -19,7 +19,7 @@ Short, stocky, bearded demihumans who dwell in mountains and subterranean realms
 
 ------
 
-- **Leader:** A leader of level 1d6 + 2 is present for every 20 dwarves. The leader may have magic items: 5% chance per level for each magic item table (except Scrolls and Wands/Staves/Rods — see ***Magic Items.
+- **Leader:** A leader of level 1d6 + 2 is present for every 20 dwarves. The leader may have magic items: 5% chance per level for each magic item table (except Scrolls and Wands/Staves/Rods) — see Magic Items.
 - **Hate goblins:** Normally attack on sight.
 
 *See Dwarf for the character class.*

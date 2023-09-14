@@ -1,6 +1,6 @@
 # Cockatrice
 
-Small, magical, bird / reptile hybrids with long serpent tails and the head, legs, and wings of a cockerel. Live in all environments.
+Small, magical, bird/reptile hybrids with long serpent tails and the head, legs, and wings of a cockerel. Live in all environments.
 
 ------
 

@@ -19,7 +19,7 @@ Slender, fey demihumans with pointed ears. Live in harmony with nature, in beaut
 
 ------
 
-- **Spells:** Each individual has one random 1st level arcane spell.
-- **Leader:** Groups of 15+ are led by an elf of level 1d6 + 1. The leader may have magical items: 5% chance per level for each magic item table (see ***Magic Items.
+- **Spells:** Each individual has one random 1st-level arcane spell.
+- **Leader:** Groups of 15+ are led by an elf of level 1d6 + 1. The leader may have magical items: 5% chance per level for each magic item table (see Magic Items).
 
 *See Elf for the character class.*

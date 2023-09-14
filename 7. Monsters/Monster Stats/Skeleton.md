@@ -1,6 +1,6 @@
 # Skeleton
 
-Skeletal remains of humanoids, reanimated as guardians by powerful magic-users or clerics. Often encountered in cemeteries, crypts, or other forlorn places.
+Skeletal remains of humanoids reanimated as guardians by powerful magic-users or clerics. Often encountered in cemeteries, crypts, or other forlorn places.
 
 ------
 
@@ -19,4 +19,4 @@ Skeletal remains of humanoids, reanimated as guardians by powerful magic-users o
 
 ------
 
-- **Undead:** Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. *charm*, *hold*, *sleep.
+- **Undead:** Make no noise until they attack. Immune to effects that affect living creatures (e.g., poison). Immune to mind-affecting or mind-reading spells (e.g., *charm*, *hold*, *sleep*).

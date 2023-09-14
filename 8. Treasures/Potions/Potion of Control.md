@@ -1,9 +1,5 @@
 # Potion of Control
 
-(Redirected from Potion of Control Animal
-
-Jump to:navigation, search
-
 A potion of this type allows the one who drinks it to control the actions of creatures of a certain type.
 
 - **Concentration:** Exercising control requires concentration.
@@ -18,7 +14,7 @@ A potion of this type allows the one who drinks it to control the actions of cre
 ## Control Dragon
 
 - **Affects:** 1–3 dragons of a specific type. (The referee should determine which type of dragon the potion affects.)
-- **Spell casting:** It is not possible to command a dragon to cast spells.
+- **Spell casting:** It is impossible to command a dragon to cast spells.
 - **When the potion’s effect ends:** Affected dragons have a hostile reaction.
 
 ## Control Giant
@@ -30,11 +26,11 @@ A potion of this type allows the one who drinks it to control the actions of cre
 - **Usage:** A charm may be placed upon a human within 60’. One target may be charmed per round.
 - **Resisting:** The subject may **save versus spells** to resist the charm.
 - **Maximum subjects:** Up to 6 Hit Dice of humans may be charmed in this way. Normal humans count as ½ HD.
-- **Charmed individuals:** Regard the character as a trusted friend, and will come to their defence. They will obey the character’s commands, as long as these are not obviously harmful and do not contradict the subject’s alignment.
+- **Charmed individuals:** Regard the character as a trusted friend and will come to their defense. They will obey the character’s commands as long as these are not obviously harmful and do not contradict the subject’s alignment.
 
 ## Control Plant
 
-- **Affects:** All plants (including plant monsters) in a 30’ square area up to 60’ distant.
+- **Affects:** All plants (including plant monsters) in a 30’ square area up to 60’ distance.
 - **Commands:** Affected plants may be commanded to move around as the character wishes, and may be used to entangle creatures in the area.
 
 ## Control Undead

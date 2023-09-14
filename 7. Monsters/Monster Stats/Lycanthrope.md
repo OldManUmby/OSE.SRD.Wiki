@@ -1,18 +1,16 @@
 # Lycanthrope
 
-Jump to:navigation, search
-
 Shapechangers with a human and an animal form.
 
 - **Human form:** Have physical characteristics reminiscent of the associated animal type.
 - **Mundane damage immunity:** In animal form, can only harmed by silver weapons or magic.
-- **Languages:** In human form, can speak normally. In animal form, can only speak with animals of the associated type.
+- **Languages:** In human form, can speak normally. In animal form, they can only speak with animals of the associated type.
 - **Armor:** Not used because it hinders shape-changing.
 - **Summon animals:** Can summon 1–2 animals of the associated type from the surrounding area (wererats summon giant rats. These arrive in 1d4 rounds.
 - **Wolfsbane:** If hit, must save versus poison or flee in terror.
 - **Reversion:** If killed, a lycanthrope reverts to its human form.
 - **Scent:** Horses and some other animals can smell lycanthropes and will become afraid.
-- **Infection:** A character who loses more than ½ their hit points from lycanthropes’ natural attacks (i.e. bites, claws) contracts lycanthropy. Humans become were-creatures of the same type (run by the referee, henceforth); non-humans die. The disease takes full effect in 2d12 days, showing signs of infection after half the time.
+- **Infection:** A character who loses over ½ their hit points from lycanthropes’ natural attacks (i.e., bites, claws) contracts lycanthropy. Humans become were-creatures of the same type (run by the referee, henceforth); non-humans die. The disease takes full effect in 2d12 days, showing signs of infection after half the time.
 
 ## Devil Swine
 
@@ -62,11 +60,11 @@ Highly intelligent, also in bear form. Dwell alone or among normal bears.
 ------
 
 - **Amiable:** May be friendly, if approached peacefully.
-- **Bear hug:** If a victim is hit by both claw attacks in the same round, the werebear can hug for an extra 2d8 automatic damage.
+- **Bear hug:** If both claw attacks hit a victim in the same round, the werebear can hug for an extra 2d8 automatic damage.
 
 ## Wereboar
 
-Semi-intelligent and irascible. In human form, often appear like berserkers.
+Semi-intelligent and irascible. In human form, they often appear like berserkers.
 
 ------
 

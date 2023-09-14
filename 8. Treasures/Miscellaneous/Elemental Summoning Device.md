@@ -12,5 +12,5 @@ Ritual items enchanted with the power to summon beings from the elemental planes
 - **Frequency:** The summoning power may only be used once per day.
 - **Before use:** The device must be prepared. This takes one turn.
 - **Activation:** Once prepared, activating the device takes one round.
-- **Summoned elemental:** A 12 HD elemental (see ***Elemental is conjured to do the summoner’s bidding.
-- **Command over the elemental:** Works as described in the magic-user spell *conjure elemental* (see ***Conjure Elemental.
+- **Summoned elemental:** A 12 HD elemental (see ***Elemental***) is conjured to do the summoner’s bidding.
+- **Command over the elemental:** Works as described in the magic-user spell *conjure elemental* (see ***Conjure Elemental***).

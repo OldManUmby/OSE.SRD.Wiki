@@ -1,6 +1,6 @@
 # Goblin
 
-Small, grotesque humanoids with pallid, earth-coloured skin and glowing, red eyes. Dwell underground.
+Small, grotesque humanoids with pallid, earth-colored skin and glowing, red eyes. Dwell underground.
 
 ------
 

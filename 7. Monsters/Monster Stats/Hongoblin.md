@@ -1,6 +1,6 @@
 # Hobgoblin
 
-Larger and nastier relatives of goblins. Dwell underground, but commonly seek prey above ground.
+Larger and nastier relatives of goblins. Dwell underground but commonly seek prey above ground.
 
 ------
 

@@ -6,9 +6,9 @@
 
 **Range:** The caster
 
-A channel of communication is opened to a higher plane of existence, allowing the caster to ask powerful, otherworldly beings for advice and knowledge on any subject.
+A communication channel is opened to a higher plane of existence, allowing the caster to ask powerful, otherworldly beings for advice and knowledge on any subject.
 
-- **Plane:** The caster must choose which plane of existence to contact: communion with beings of the 3rd to 12th planes is possible via this spell. Higher numbered planes are home to more powerful and knowledgeable beings.
+- **Plane:** The caster must choose which plane of existence to contact: communion with beings of the 3rd to 12th planes is possible via this spell. Higher-numbered planes are home to more powerful and knowledgeable beings.
 - **Questions:** The caster may then ask a number of simple yes/no questions equal to the number of the plane contacted. The referee plays the role of the contacted being, responding to the caster’s questions.
 - **Answers:** For each question asked, there is a chance of the contacted being not knowing the answer or of answering untruthfully: see the table below. It is impossible to detect whether the entity is lying.
 

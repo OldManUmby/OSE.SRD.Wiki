@@ -23,7 +23,7 @@ Bred for great strength and endurance. Used to pull vehicles and ploughs or as b
 
 ------
 
-- **Non-combatant:** Will flee, if attacked.
+- **Non-combatant:** Will flee if attacked.
 - **Domestic:** Not encountered in the wild.
 - **Carry loads:** Up to 4,500 coins unencumbered; up to 9,000 at half speed.
 
@@ -72,7 +72,7 @@ Bred for strength and courage in battle. Adapted to short bursts of speed; not s
 
 ------
 
-- **Charge:** When not in melee. Requires a clear run of at least 20 yards. Rider’s lance inflicts double damage. Horse cannot attack when charging.
+- **Charge:** When not in melee. Requires a clear run of at least 20 yards. The rider’s lance inflicts double damage. The Horse cannot attack when charging.
 - **Melee:** When in melee, both rider and horse can attack.
 - **Domestic:** Not encountered in the wild.
 - **Carry loads:** Up to 4,000 coins unencumbered; up to 8,000 at half speed.

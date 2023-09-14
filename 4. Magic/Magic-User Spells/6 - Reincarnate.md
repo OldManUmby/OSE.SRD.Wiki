@@ -1,7 +1,5 @@
 # Reincarnation
 
-Jump to:navigation, search
-
 *6th Level Magic-User Spell*
 
 **Duration:** Permanent

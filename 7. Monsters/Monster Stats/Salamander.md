@@ -4,7 +4,7 @@ Giant, magical reptiles with an affinity for extreme heat or cold.
 
 ## Flame Salamander
 
-12’–16’ long, intelligent serpents with lizard-like heads and legs. Bright orange/yellow/red scales. Natives of the plane of elemental fire, but also live in volcanoes and scorching deserts.
+12’–16’ long, intelligent serpents with lizard-like heads and legs. Bright orange/yellow/red scales. Natives of the plane of elemental fire but also live in volcanoes and scorching deserts.
 
 ------
 

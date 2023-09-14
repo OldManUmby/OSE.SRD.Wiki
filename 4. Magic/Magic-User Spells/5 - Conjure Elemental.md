@@ -1,7 +1,5 @@
 # Conjure Elemental
 
-Jump to:navigation, search
-
 *5th Level Magic-User Spell*
 
 **Duration:** Permanent (until dismissed or slain)
@@ -10,7 +8,7 @@ Jump to:navigation, search
 
 A 16 Hit Dice elemental—a being formed of pure elemental matter—is summoned from an elemental plane of the caster’s choice (air, earth, fire, water) to do the caster’s bidding.
 
-- **Materials:** The summons requires a large volume of the appropriate element.
+- **Materials:** The summons require a large volume of the appropriate element.
 - **Concentration:** Is required to command an elemental.
 - **Dismissing:** While control over the elemental is maintained, the caster may dismiss it at any time, sending it back to its plane of origin.
 - **Disruption:** If the caster moves at more than half speed or their concentration is disturbed, the command over the elemental ends. It is, henceforth, a free-willed entity and will immediately try to kill the caster and any who get in its way.

@@ -1,6 +1,6 @@
 # Troll
 
-Intelligent, wicked, 8’ tall humanoids with emaciated, rubbery bodies. Consume the flesh of other humanoids. Dwell underground, in barren wilderness, and in the ruined homes of former victims.
+Intelligent, wicked, 8’ tall humanoids with emaciated, rubbery bodies. Consume the flesh of other humanoids. Dwell underground, in the barren wilderness, and in the ruined homes of former victims.
 
 ------
 

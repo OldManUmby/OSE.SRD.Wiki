@@ -25,7 +25,7 @@
 
 ## Oil Beetle
 
-3’ long, burrowing beetles sometimes encountered below ground.
+3’ long, burrowing beetles are sometimes encountered below ground.
 
 ------
 

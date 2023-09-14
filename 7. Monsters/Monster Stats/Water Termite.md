@@ -3,8 +3,8 @@
 Giant (1’–5’ long), wood-eating, aquatic insects with a sack to take in and jet out water. Prone to feeding on passing ships. Only attack creatures if cornered.
 
 - **Irritant spray:** Above water; maximum once a turn. Can spray one target: **save versus poison** or stunned for 1 turn.
-- **Ink cloud:** Underwater; maximum once a turn. When escaping, can emit a cloud of black ink to confuse attackers.
-- **Eat ships:** Cling to bottom of vessel. Each individual inflicts 1d3 hull damage then drops off.
+- **Ink cloud:** Underwater; maximum once a turn. When escaping, it can emit a cloud of black ink to confuse attackers.
+- **Eat ships:** Cling to the bottom of a vessel. Each individual inflicts 1d3 hull damage and then drops off.
 - **Noticing ship damage:** 50% chance per round of spotting leaks.
 
 ## Freshwater Termite

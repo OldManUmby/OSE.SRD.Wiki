@@ -1,6 +1,6 @@
 # Warp Beast
 
-Large, black, six-legged, semi-intelligent monsters. Look similar to panthers with a tentacle growing from each front shoulder. Tentacles ridged with razor-sharp edges.
+Large, black, six-legged, semi-intelligent monsters. Look similar to panthers, with a tentacle growing from each front shoulder. Tentacles are ridged with razor-sharp edges.
 
 ------
 

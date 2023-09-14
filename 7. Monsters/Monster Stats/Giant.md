@@ -23,13 +23,13 @@ Aggressive, 20’ tall humanoids with skin and hair ranging from grey to white. 
 
 - **Keen sight and smell:** Only surprised on a 1.
 - **Boulder throwing:** Up to 200’.
-- **Castle:** Built into mountain-sides or floating on cloud banks.
+- **Castle:** Built into mountainsides or floating on cloud banks.
 - **Guardians:** 3d6 giant hawks or (only in mountains) 6d6 dire wolves.
 - **Hate intruders:** May block mountain passes to ensure isolation.
 
 ## Fire Giant
 
-16’ tall humanoids with black hair and red skin. Dress in armor fashioned from golden metals (brass, bronze, copper). Dwell in places of extreme heat (e.g. near volcanoes).
+16’ tall humanoids with black hair and red skin. Dress in armor fashioned from golden metals (brass, bronze, copper). Dwell in places of extreme heat (e.g., near volcanoes).
 
 ------
 
@@ -149,7 +149,7 @@ Hairy, brutish, 12’ tall humanoids of low intelligence. Dwell in foothills. Kn
 ------
 
 - **Summon storm:** Takes 1 turn.
-- **Lightning bolts:** In a storm, may throw lightning every 5 rounds: 60’ long, 5’ wide; inflicts damage equal to the giant’s current hit point total (**save versus spells** for half damage); will bounce off of hard surfaces in path.
+- **Lightning bolts:** In a storm, may throw lightning every 5 rounds: 60’ long, 5’ wide; inflicts damage equal to the giant’s current hit point total (**save versus spells** for half damage); will bounce off of hard surfaces in the path.
 - **Lightning immunity:** Unharmed by lightning. Enjoy basking in storms.
 - **Castle:** High among mountain peaks, atop banks of clouds, or in deep waters.
 - **Guardians:** 2d4 griffons. Underwater: 3d6 giant crabs.

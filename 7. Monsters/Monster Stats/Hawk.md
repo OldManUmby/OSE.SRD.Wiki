@@ -31,7 +31,7 @@ As big as a great dog. If hungry, may attack humans or similar-sized creatures.
 
 ## Normal Hawk
 
-Small birds of prey. Will only attack humans if they appear defenceless.
+Small birds of prey. Will only attack humans if they appear defenseless.
 
 ------
 

@@ -1,6 +1,6 @@
 # Gnome
 
-Short demihumans with long noses and beards. Smaller cousins of dwarves, whom they get along with. Prefer to live in burrows in non-mountainous country.
+Short demihumans with long noses and beards. Smaller cousins of dwarves, whom they get along with. Prefer to live in burrows in a non-mountainous country.
 
 ------
 
