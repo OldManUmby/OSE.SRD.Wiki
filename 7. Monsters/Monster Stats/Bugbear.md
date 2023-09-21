@@ -1,7 +1,5 @@
 # Bugbear
 
-Jump to:navigation, search
-
 Large, hairy goblins with an ungainly gait. Favour attacking by surprise.
 
 ------
