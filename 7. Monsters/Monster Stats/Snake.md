@@ -1,7 +1,5 @@
 # Snake
 
-Jump to:navigation, search
-
 Dwell in all but the most extreme climes. Will usually only attack if cornered or surprised.
 
 ## Giant Rattler
