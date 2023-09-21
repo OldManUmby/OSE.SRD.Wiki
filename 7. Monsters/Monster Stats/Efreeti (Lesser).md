@@ -21,11 +21,7 @@ Highly magical, free-willed, intelligent beings from the elemental plane of fire
 
 - **Mundane damage immunity:** Can only be harmed by magical attacks.
 
-- Magic powers:
-
-   
-
-  Each can be used three times per day:
+- **Magic powers:** Each can be used three times per day:
 
   - **Pillar of flame:** Transform into a column of fire for up to 3 rounds. Flammable items within 5’ are ignited. Attacks do an additional 1d8 damage (3d8 total).
   - **Invisibility**
