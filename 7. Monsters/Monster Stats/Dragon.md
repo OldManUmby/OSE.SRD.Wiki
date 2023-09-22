@@ -8,17 +8,7 @@ A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many 
 
 - **Attack pattern:** A dragon always attacks first with its breath weapon, then either breathes again or makes melee attacks (equal chance of either).
 
-- Breath weapon:
-
-   
-
-  It can be used up to three times per day. All caught in the area suffer damage equal to the dragon’s current hit points (
-
-  save versus breath
-
-   
-
-  for half). Shapes of breath weapon:
+- **Breath weapon:** It can be used up to three times per day. All caught in the area suffer damage equal to the dragon’s current hit points (**save versus breath** for half). Shapes of breath weapon:
 
   - **Cloud:** 50’ long, 40’ wide, 20’ high.
   - **Cone:** 2’ wide at the mouth, 30’ wide at the far end.
