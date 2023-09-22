@@ -20,5 +20,5 @@ Huge arachnids, as big as a small horse, with pincers and deadly stingers. Dwell
 ------
 
 - **Aggressive:** Normally attack on sight.
-- **Poison:** Causes death (**save vs. poison**).
+- **Poison:** Causes death (**save versus poison**).
 - **Grab and sting:** +2 bonus to sting attack, if a claw hits.

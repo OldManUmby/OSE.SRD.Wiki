@@ -44,7 +44,7 @@ Greatly feared undead monsters that live by drinking the blood of mortals. Dwell
 
 - **Vulnerabilities:**
 
-  - **Garlic:** Odour repels: save vs poison or unable to attack this round.
+  - **Garlic:** Odour repels: save versus poison or unable to attack this round.
   - **Holy symbols:** If presented, will keep a vampire at bay (10’). May attack wielder from another direction.
   - **Running water:** Cannot cross (in any form), except by a bridge or carried inside a coffin.
   - **Mirrors:** Avoid; do not cast a reflection.

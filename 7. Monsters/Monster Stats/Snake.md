@@ -50,7 +50,7 @@ Dwell in all but the most extreme climes. Will usually only attack if cornered o
 
 - **Infravision:** 60’. (Pits in the head allow heat sense.)
 - **Initiative:** Always gains initiative (no roll), due to special senses.
-- **Poison:** Causes death (**save vs poison**).
+- **Poison:** Causes death (**save versus poison**).
 
 ## Rock Python
 
@@ -97,7 +97,7 @@ Dwell in all but the most extreme climes. Will usually only attack if cornered o
 ------
 
 - **Pinprick bite:** 50% chance of going unnoticed.
-- **Poison:** Slow acting: effects felt after 1d4+2 turns. **Save vs poison** or die 1 turn later. At this point, the *neutralize poison* spell has a 25% chance of not working.
+- **Poison:** Slow acting: effects felt after 1d4+2 turns. **Save versus poison** or die 1 turn later. At this point, the *neutralize poison* spell has a 25% chance of not working.
 - **Larger individuals:** Sea snakes with more than 3 HD may be encountered. They are 6’ long for every 3 HD.
 
 ## Spitting Cobra
@@ -121,5 +121,5 @@ Dwell in all but the most extreme climes. Will usually only attack if cornered o
 
 ------
 
-- **Blinding spit:** Range: 6’. A hit causes permanent blindness (**save vs poison**).
+- **Blinding spit:** Range: 6’. A hit causes permanent blindness (**save versus poison**).
 - **Poison:** Causes death in 1d10 turns (**save versus poison**).
