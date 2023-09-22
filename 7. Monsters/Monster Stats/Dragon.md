@@ -20,7 +20,7 @@ A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many 
 
 - **Sleeping:** The chance of a dragon being asleep when encountered on the ground is listed by subspecies. A sleeping dragon may be attacked for one round with a +2 bonus to hit. Dragons may sometimes pretend to be asleep!
 
-- **Subduing:** Will surrender if reduced to 0hp by non-lethal attacks (see ***Subduing, admitting that it has been defeated. (Subdual damage does not reduce the damage done by the breath weapon.) A subdued dragon will attempt to escape or attack its captors, if the opportunity presents itself or if given a suicidal command. A subdued dragon may be sold for up to 1,000gp per hp.
+- **Subduing:** Will surrender if reduced to 0hp by non-lethal attacks (see ***Subduing***), admitting that it has been defeated. (Subdual damage does not reduce the damage done by the breath weapon.) A subdued dragon will attempt to escape or attack its captors, if the opportunity presents itself or if given a suicidal command. A subdued dragon may be sold for up to 1,000gp per hp.
 
 - **Age:** The following stats describe dragons of average size. Younger dragons may have up to 3 HD less and ¼ or ½ as much treasure. Older dragons may have up to 3 HD more and twice as much treasure.
 
