@@ -23,7 +23,7 @@ Highly magical, free-willed, intelligent beings from the elemental plane of air.
 
 - **Magic powers:** Each can be used three times per day:
 
-  - **Whirlwind form:** 5 rounds to transform (or change back). 70’ tall, 20’ wide at top, 10’ wide at base. Moves at 120’ (40’). 2d6 damage to all in the path. Creatures with less than 2HD swept aside (**save vs. death**).
+  - **Whirlwind form:** 5 rounds to transform (or change back). 70’ tall, 20’ wide at top, 10’ wide at base. Moves at 120’ (40’). 2d6 damage to all in the path. Creatures with less than 2HD swept aside (**save versus death**).
   - **Gaseous form**
   - **Invisibility**
   - **Illusion:** Visual and audial. No concentration is required. Remains until touched or dispelled.

@@ -71,6 +71,6 @@
 
 ------
 
-- **Poison:** **Save vs poison** or dance for 2d6 turns (suffering from painful, jerking spasms that resemble a macabre dance).
+- **Poison:** **Save versus poison** or dance for 2d6 turns (suffering from painful, jerking spasms that resemble a macabre dance).
 - **Onlookers:** Viewers of one affected by the poison must **save versus spells** or begin dancing in the same fashion, for as long as the poisoned victim.
 - **Dancing:** Those affected suffer a -4 penalty to attack rolls and AC. After 5 turns of dancing, they become exhausted: fall to the ground, helpless.

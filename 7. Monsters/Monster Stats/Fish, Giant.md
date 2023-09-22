@@ -89,7 +89,7 @@ Spiny fish with lumpy, rock-like skin. Live in saltwater shallows. Normally pass
 
 - **Camouflage:** 70% chance of being mistaken for a rock or coral formation.
 - **Grasping:** If mistaken for a rock and grasped, all 4 spines automatically hit.
-- **Poison:** Causes death (**save vs poison**).
+- **Poison:** Causes death (**save versus poison**).
 
 ## Giant Sturgeon
 
